@@ -4,7 +4,7 @@ This repository holds the source code for the Leo Service Cleaning web applicati
 
 <ul>
   <li>Schedule cleaning appointments</li>
-  <li>Manage cleaning service requests,/li>
+  <li>Manage cleaning service requests</li>
   <li>Learn more about our services</li>
   <li>Contact us for a free quote.</li>
 </ul>
